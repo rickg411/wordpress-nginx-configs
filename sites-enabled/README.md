@@ -1,1 +1,0 @@
-Create symbolic links in this diretory.
