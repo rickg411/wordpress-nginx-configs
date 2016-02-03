@@ -8,4 +8,4 @@ https://rtcamp.com/wordpress-nginx/
 
 Also included basic configs for phpmyadmin.
 
-Hopefully more to come in later.
+Really need to update this sometime
